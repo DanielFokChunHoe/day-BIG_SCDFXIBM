@@ -37,8 +37,8 @@ Tackling the issue of reducing the need to activate precious emergency resources
 ### Getting Started
 
 ### what my team used to build the solution
-IBM Watson Studio
-Machine Learning
-AutoAI
-Jupyter
+- IBM Watson Studio
+- Machine Learning
+- AutoAI
+- Jupyter
 
