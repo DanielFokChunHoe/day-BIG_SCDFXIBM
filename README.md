@@ -21,7 +21,7 @@ Tackling the issue of reducing the need to activate precious emergency resources
 [Here is our simple architecture](./ArchitectLayout.jpg)
 
 ### Solutions Hyperlink
-[Here is our detailed solution](D.A.Y SCDFxIBM Challenge.docx)
+[Here is our detailed solution](./D.A.Y_SCDFxIBM_Challenge.docx)
 
 ### Getting Started
 We do not have the software available as our team do not possess the expertise. We however do have the idea and skeletal code for the implementation.
