@@ -15,7 +15,7 @@ Infrastructure is getting “smart”, with sensors and Internet of things (IoT)
 Tackling the issue of reducing the need to activate precious emergency resources, we need an efficient platform that can activate the corresponding protocol in events of emergency and verify the validity of the incident so as to effectively address the situation without incurring excessive resources, especially in cases of false events. In this case, we will be focusing on the issues of fire outbreak. There is a bigger space for improvement which can even include accidents such as vehicle collision and building collapse events.
 
 ### Pitch Video
-[Here is our pitch](https://youtube.com)
+[Here is our pitch](https://youtu.be/UkkhjE2lL5s)
 
 ### Architecture of the proposed solution
 [Here is our simple architecture](./ArchitectLayout.jpg)
