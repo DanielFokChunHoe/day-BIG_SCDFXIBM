@@ -17,8 +17,8 @@ Tackling the issue of reducing the need to activate precious emergency resources
 ### Pitch Video
 [Here is our pitch](https://youtube.com)
 
-### Architecure of the proposed solution
-[Here is our detailed solution](../ArchitectLayout.jpg)
+### Architecture of the proposed solution
+[Here is our simple architecture](./ArchitectLayout.jpg)
 
 ### Solutions Hyperlink
 [Here is our detailed solution](../blob/master/LICENSE)
