@@ -1,11 +1,11 @@
 # D.A.Y_scdf_ibm
 SPP_SPP_SPP_SPP
-Team Members:
-Adrian Poh Eik Yong
-Daniel Fok Chun Hoe
-Lee Yi Yang
+## Team Members:
+- Adrian Poh Eik Yong
+- Daniel Fok Chun Hoe
+- Lee Yi Yang
 
-Team Name:
+## Team Name:
 D.A.Y
 
 Short description of your team members, and team name. 
@@ -24,5 +24,5 @@ Infrastructure is getting “smart”, with sensors and Internet of things (IoT)
 
 a) Tackling the issue of reducing the need to activate precious emergency resources, we need an efficient platform that can activate the corresponding protocol in events of emergency and verify the validity of the incident so as to effectively address the situation without incurring excessive resources
 
-b) Youtube URL: [Here is our pitch] (https://youtube.com)
+b) Youtube URL: [Here is our pitch](https://youtube.com)
 
